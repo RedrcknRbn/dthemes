@@ -1,0 +1,31 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Cyclonez",
+        "name": "ExtraDark"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 25
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/885879042417524736\/885964432658792448\/texgyreadventor-bold.ttf"
+    },
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -16777216,
+        "accent": -14013910,
+        "mention_highlight": 905969664,
+        "statusbar": 0,
+        "input_background": -14013910
+    },
+    "colors": {
+        "primary_dark_200": -8288631,
+        "abc_tint_default": -15395563,
+        "abc_search_url_text": -16777216,
+        "primary_dark_600": -16777216
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -1895825408
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Cyclonez#5330",
+        "name": "XplorerLands",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/885879042417524736\/900768221274206289\/6af8aa96-2cd4-4123-a1d3-aa38264300d6.png",
+        "blur_radius": 5
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/881344281024016405\/884755124373827624\/Quicksand_Regular_400.ttf"
+    },
+    "simple_colors": {
+        "background": -15442644,
+        "background_secondary": -15042247,
+        "mention_highlight": 1078694869,
+        "statusbar": -15042247,
+        "active_channel": -15042247,
+        "input_background": -15042247,
+        "accent": -15225722
+    },
+    "colors": {},
+    "drawable_tints": {}
+}
